@@ -7,8 +7,14 @@ class River
     @collection_of_fish = []
   end
 
-  def add_to_queue(person)
-    @queue.push(person)
+  def collection_of_fish_length()
+    return @collection_of_fish.length()
   end
+
+  def loses_fish(fish)
+    @collection_of_fish.pop
+  end
+
+
 
 end

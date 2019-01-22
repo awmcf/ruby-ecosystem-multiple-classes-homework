@@ -16,4 +16,11 @@ class Bear
     @collection_of_food.push(fish)
   end
 
+  # def pick_up_from_stop(stop)
+  #   for person in stop.queue()
+  #     pick_up(person)
+  #   end
+  #   stop.clear_queue()
+  # end
+
 end
