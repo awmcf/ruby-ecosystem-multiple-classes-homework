@@ -4,9 +4,9 @@ We are going to build a small ecosystem! We want to create an ecosystem made up 
 
 ## How Our Ecosystem Works
 
-- A `River` should have a name e.g. "Amazon"
-- A `River` should have a collection of `Fish` (an array)
-- A `Fish` should have a name
+<!-- - A `River` should have a name e.g. "Amazon"
+- A `River` should have a collection of `Fish` (an array) -->
+<!-- - A `Fish` should have a name -->
 - A `Bear` should have a name e.g. "Yogi"
 - A `Bear` should have a type e.g. "Grizzly"
 - A `Bear` should have a collection of food (an array)
