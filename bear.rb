@@ -8,4 +8,12 @@ class Bear
     @collection_of_food = []
   end
 
+  def collection_of_food_length()
+    return @collection_of_food.length()
+  end
+
+  def snag_fish(fish)
+    @collection_of_food.push(fish)
+  end
+
 end

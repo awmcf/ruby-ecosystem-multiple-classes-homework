@@ -7,4 +7,8 @@ class River
     @collection_of_fish = []
   end
 
+  def add_to_queue(person)
+    @queue.push(person)
+  end
+
 end
